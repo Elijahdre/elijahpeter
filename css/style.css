@@ -1,0 +1,16 @@
+#img-div {
+  max-width: 100px;  
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+} 
+
+#image {
+    margin: auto;
+    max-width: 0.5em;
+    display: block;
+}
+
+#img-p {
+    text-align: center;
+}
